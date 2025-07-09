@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicios_Pilas_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6277e1a8a64f120540d9cf5ece4baf4f8802c81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d000a990df009b67b9f9c8b147229ba2f4b00a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicios_Pilas_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicios_Pilas_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
